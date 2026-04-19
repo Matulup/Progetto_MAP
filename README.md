@@ -1,4 +1,4 @@
-# Progetto-MAP
+# Progetto_MAP
 Il progetto presentato è stato sviluppato per il corso di Metodi Avanzati di Programmazione 2024-2025 e ha 
 come obiettivo la realizzazione di un sistema client–server per l'esecuzione dell'[algoritmo QT 
 (Quality Threshold Clustering)](https://www.ibm.com/it-it/think/topics/unsupervised-learning) su dati memorizzati in un database.
